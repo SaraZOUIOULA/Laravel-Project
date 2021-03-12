@@ -3,11 +3,11 @@
 
 1. sur git récupérer l'URL du projet à cloner 
 2. Dans le terminal lancer la commande 
-''' git clone urlRepo nomDossier'''
+''' git clone urlRepo nomDossier
 3. Changer le .env.example en .env et configurer la BDD
-4. installer composer sur votre machine ''' composer install'''
-5. lancer ''' php artisan migrate:fresh -- seed''' pour charger la BDD
-6. lancer le projet sur votre dossier avec la cmd  '''php artisan serve'''
+4. installer composer sur votre machine ''' composer install
+5. lancer ''' php artisan migrate:fresh -- seed pour charger la BDD
+6. lancer le projet sur votre dossier avec la cmd  '''php artisan serve
 
 
 ## Menu
