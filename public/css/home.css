@@ -1,0 +1,27 @@
+.character{
+    border: 2px black solid;
+    width: 40%;
+    font-weight: bold;
+    background-color: beige;
+    opacity: .75;
+    padding-left: 5px;
+    margin-bottom:20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.global{
+    display: flex;
+	flex-direction: row;
+}
+.button{
+    display: flex;
+	flex-direction: row-reverse;
+    margin-bottom: 20px;
+    width:fit-content;
+}
+form{
+    width:fit-content;
+}
+.btn{
+    border-radius: 5px;
+}

@@ -1,0 +1,26 @@
+main{
+    width: fit-content;
+    margin: auto;
+}
+input, label, select{
+    width: fit-content;
+}
+
+legend{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.3rem;
+}
+
+span{
+    color:fuchsia;
+}
+
+label{
+    font-weight: bold;
+}
+
+#banniere_image{
+    background: url("/img/drawing.jpg") no-repeat;
+    background-size: cover;
+}

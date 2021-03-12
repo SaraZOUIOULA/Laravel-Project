@@ -1,0 +1,46 @@
+*{
+    background-image: url("/img/fond.png");
+}
+body{
+    width: 1000px;
+    margin: auto;
+}
+nav
+{
+    display: flex;
+    align-items: flex-end;
+}
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+nav li
+{
+    margin-right: 15px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+nav a:hover
+{
+    color: fuchsia;
+    border-bottom: 3px solid fuchsia;
+}
+
+#banniere_image
+{
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url("/img/strip_cartoon.jpg") no-repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+}

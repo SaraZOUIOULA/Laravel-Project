@@ -1,0 +1,21 @@
+main{
+    width: fit-content;
+    margin: auto;
+}
+#banniere_image{
+    background: url("/img/drawing.jpg") no-repeat;
+    background-size: cover;
+}
+
+.button{
+    display: flex;
+	flex-direction: row-reverse;
+    margin-bottom: 20px;
+    width:fit-content;
+}
+
+.draftsman{
+    border: 2px solid fuchsia;
+    border-radius: 5px;
+    padding: 5px;
+}
